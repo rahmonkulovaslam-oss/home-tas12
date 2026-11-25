@@ -21,3 +21,39 @@ body{
     width: 650px;
     height: 800px;
 }
+.aa{
+    width: 28%;
+    height: 350px;
+    border: 1px solid rgb(188, 186, 186);
+    border-radius: 15px;
+    box-shadow: 1px 1px 3px rgb(220, 218, 218);
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.big{
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-around;
+}
+.my{
+    width: 30%;
+    height: 300px;
+    border: 1px solid rgb(194, 190, 190);
+    box-shadow: 1px 1px 3px gray;
+    border-radius: 10px;
+}
+.copy{
+    display: flex;
+    justify-content: space-between;
+}
+.my{
+    margin-top: 50px;
+}
+.pos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+ff{
+    width: 100%;
+}
