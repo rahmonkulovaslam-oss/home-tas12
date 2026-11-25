@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: space-around;
     gap: 50px;
-    font-size: 20px;
+    font-size: 23px;
 }
 .box3{
     display: flex;
