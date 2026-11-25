@@ -1,10 +1,11 @@
 .box{
     display: flex;
     justify-content: space-between;
+    margin: 50px;
 
 }
 body{
-    margin: 50px;
+    /* margin: 50px; */
     font-family: Arial, Helvetica, sans-serif;
 }
 .box1{
@@ -16,6 +17,7 @@ body{
 .box3{
     display: flex;
     justify-content: space-between;
+    margin: 50px;
 }
 .s{
     width: 650px;
@@ -34,6 +36,7 @@ body{
     margin-top: 100px;
     display:flex;
     justify-content: space-around;
+    margin: 50px;
 }
 .my{
     width: 30%;
@@ -45,6 +48,7 @@ body{
 .copy{
     display: flex;
     justify-content: space-between;
+    margin: 50px;
 }
 .my{
     margin-top: 50px;
@@ -53,6 +57,7 @@ body{
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
+    margin: 50px;
 }
 ff{
     width: 100%;
